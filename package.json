@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AndreSDS/criar-serv-express/issues"
   },
-  "homepage": "https://github.com/AndreSDS/criar-serv-express#readme"
+  "homepage": "https://github.com/AndreSDS/criar-serv-express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
